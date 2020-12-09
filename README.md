@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Front-end developer. Nothing interesting to explain I have :p
-Pronouns: she/her/hers
+# Front-end developer. Nothing interesting to explain I have :p
+# Pronouns: she/her/hers
 <!--
 **A-F-Kay/A-F-Kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
