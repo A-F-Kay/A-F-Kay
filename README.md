@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📝 Front-end developer. Mastering TypeScript, React, MobX and TypeScript :octocat:
+- 📝 Front-end developer. Mastering TypeScript, React and MobX :octocat:
 - 😄 Pronouns: she/her/hers
 <!--
 **A-F-Kay/A-F-Kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
