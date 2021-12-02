@@ -11,7 +11,7 @@
 #### More info
 
 - I live in Ukraine
-- I'm currently working at [Only Studio Russia](it-only.ru)
+- Unemployed
 - Everyday stuff I do is `.tsx`, `.ts`, `.css`
 - In love with Arch Linux && Tiling window managers && Zsh && Alacritty && ~~&& WSL && oh-my-zsh && tmux &&~~ docker
 
