@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-#### Basic info
-- 💁:
-    - (Good) TypeScript/MobX
-    - (Average) C/C++
-    - (Beginner) Python/Django, Python/FastAPI, Rust
-- ❤️ 24
-- 💃 she/her
-
-#### More info
-
-- I live in Ukraine
-- Unemployed
-- Everyday stuff I do is `.tsx`, `.ts`, `.css`
-- In love with Arch Linux && Tiling window managers && Zsh && Alacritty && ~~&& WSL && oh-my-zsh && tmux &&~~ docker
-
 <!--
 **A-F-Kay/A-F-Kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
